@@ -3,7 +3,7 @@
 
 ## Build with
 ```
-Laravel 9
+Laravel 10
 Livewire
 Tailwind css
 Alpinejs
@@ -14,7 +14,6 @@ and many more...
 Have a look at the demo website
 demo.Galon Mart.biz
 ```
-### Website demo [Galon Mart Store](https://demo.Galon Mart.biz/)
-### For tuturial and guidelins [Guidelines](https://Galon Mart.biz/)
-
-### for any request, suggestions, cooperation please contact me via[Najeebgafar](https://najeebgafar.com)
+Michael Manalu (535220075)
+Vincent Calista (535220075)
+Yoga Ramadhani K. (535220247)
